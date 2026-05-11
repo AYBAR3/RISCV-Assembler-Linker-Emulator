@@ -1,1 +1,1 @@
-# RISCV-Assembler-Linker-Emulator
+# Sistem_Programlama_2.proje
